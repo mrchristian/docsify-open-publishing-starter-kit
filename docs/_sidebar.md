@@ -17,8 +17,8 @@
   - [Imprint](openscience-en/about.md)
   - [About](openscience-en/about.md)
 
-v6.27-1710CEST
+v6.27-1733CEST
 
-ISBN:  
-DOI:
-Cite:  
+ISBN: 978-000-000-000  
+DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2587951.svg)](https://doi.org/10.5281/zenodo.2587951)
+Cite: Bezjak, Sonja, Conzett, Philipp, Fernandes, Pedro L., Görögh, Edit, Helbig, Kerstin, Kramer, Bianca, Labastida, Ignasi, et al. The Open Science Training Handbook. Zenodo, 2019. doi:10.5281/zenodo.2587951.  

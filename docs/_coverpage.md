@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# The Open Science Training Handbook <small>3.5</small>
 
 > A magical documentation site generator.
 
@@ -9,4 +9,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Read](#docsify)

@@ -1,5 +1,5 @@
-* [Item 1](/)
-* [Item 2](/)
+* [Organiation home](/)
+* [All publications](/)
 
 * Format
 
@@ -10,5 +10,7 @@
 
 * Language
 
-  * [En](/)
-  * [Chinese](/zh-cn/)
+  * [English](/)
+  * [Portuguese](/pt/)
+  * [Spanish](/es/)
+  * [Italian](/it/)
