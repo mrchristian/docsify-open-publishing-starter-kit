@@ -1,3 +1,5 @@
+-   - [Publication Home](/)
+
 -  **Table of Contents**
 
 - [The Open Science Training Handbook](openscience-en/chapter_1.md)
