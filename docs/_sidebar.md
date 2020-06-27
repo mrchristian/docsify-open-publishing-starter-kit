@@ -21,4 +21,4 @@ v6.27-16:55CEST
 
 ISBN:  
 DOI:
-Cite as:  
+Cite:  
