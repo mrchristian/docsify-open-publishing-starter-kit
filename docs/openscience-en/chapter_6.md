@@ -1,21 +1,3 @@
----
-layout: page
-title: Open Research Software and Open Source
-nav_order: 6
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](7ed44872-310b-4a80-bd1a-0dcd10436d5f.png)
 
 # What is it?
@@ -362,7 +344,3 @@ needs to accompany the code to make it open-source software.
 
 [  
 ](https://book.fosteropenscience.eu/en/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.html)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

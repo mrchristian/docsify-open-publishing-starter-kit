@@ -1,22 +1,6 @@
----
-layout: page
-title: n Science Basics
-nav_order: 3
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](7f8a81e8-98a1-4af0-8b77-ff24454ca171.png)
+
+# Open Science Basics
 
 This chapter aims to provide concrete context as well as the key points
 for the most relevant aspects of Open Science. Starting from the core
@@ -71,7 +55,3 @@ of a training session and some further reading.
 
   - [12. Open
     Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

@@ -1,22 +1,6 @@
----
-layout: page
-title: Open Concepts and Principles
-nav_order: 4
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](10b2f781-2abf-4be1-bbb2-8d7171c1ad64.png)
+
+# Open Concepts and Principles
 
 ## What is it?
 
@@ -126,7 +110,7 @@ broader research ecosystem.
 
   - Open Science is the movement to help make the results of scholarly
     research more accessible, including code, data, and research papers.
-    
+
       - It encompasses many different but often related aspects
         impacting the entire research lifecycle, including open
         publishing, open data, open source software, open notebook
@@ -136,15 +120,15 @@ broader research ecosystem.
 <!-- end list -->
 
   - History of Open Science, and the motivations behind the movement.
-    
+
       - The origins of academic publishing began in the 17th century
         with the first academic journals.
-    
+
       - Increasing motivation to share resources between research
         disciplines, as well as increased transparency for greater
         efficiency, rigour, accountability, sustainability for future
         generations, and reproducibility.
-    
+
       - Ethical cases whereby increased transparency can reduce fraud,
         data manipulation, and selective reporting of results.
 
@@ -152,28 +136,28 @@ broader research ecosystem.
     governments for publicly-funded research to be shared more openly,
     often for the purpose of accelerated societal or economic growth and
     innovation.
-    
+
       - Publicly funded research outputs should be publicly available.
-    
+
       - Need to drive cultural change in research and amongst
         researchers.
-    
+
       - Embracing of Web-based tools and technologies to facilitate
         scientific collaboration.
 
   - Differences and commonalities within Open Science practices,
     principles and communities.
-    
+
       - It is generally accepted that Open Science leads to increased
         impact associated with wider sharing and re-use (e.g., the
         so-called "[open access citation
         advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)").
-    
+
       - Open Science could increase trust in science and in the
         reliability of scientific results.
 
   - Open Science and relations to licensing, copyright issues.
-    
+
       - Typically, open research outputs are openly licensed in order to
         maximize re-use while allowing the creator to retain ownership
         and receive credit for their work.
@@ -225,7 +209,7 @@ artificial intelligence that are making content aggregation easier.
 
 3.  Be familiar with the present state of Open Science, and the
     diversity of perspectives that this encompasses.
-    
+
     ![](28184297-5028-4ac9-bc5f-7a459edf50cf.png)
 
 ## Further reading
@@ -250,7 +234,3 @@ artificial intelligence that are making content aggregation easier.
 
   - Watson (2015). When will ‘Open Science’ become simply ‘science’?.
     [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

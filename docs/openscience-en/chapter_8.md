@@ -1,24 +1,8 @@
----
-layout: page
-title: Open Access to Published Research Results
-nav_order: 8
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](cddc59fa-ec9b-4b21-bf7b-54c7b29924a1.png)
 
-# What is it?
+# Open Access to Published Research Results
+
+## What is it?
 
 Open Access to publications means that research publications like
 articles and books can be accessed online, free of charge by any user,
@@ -383,7 +367,3 @@ alliance](https://oa2020.org/) proposed by the Max Planck Society.
 
   - The Open Access Directory.
     [oad.simmons.edu/oadwiki](http://oad.simmons.edu/oadwiki/Main_Page)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

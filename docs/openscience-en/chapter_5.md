@@ -1,24 +1,8 @@
----
-layout: page
-title: Open Research Data and Materials
-nav_order: 5
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](d4b3f9d8-436f-4d74-be10-f968d456433a.png)
 
-# What is it?
+# Open Research Data and Materials
+
+## What is it?
 
 Open research data is data that can be freely accessed, reused, remixed
 and redistributed, for academic research and teaching purposes and
@@ -582,7 +566,3 @@ accessible."
     [go-fair.org](https://www.go-fair.org/fair-principles/)
 
   - 5★ OPEN DATA. [5stardata.info](http://5stardata.info/en/)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

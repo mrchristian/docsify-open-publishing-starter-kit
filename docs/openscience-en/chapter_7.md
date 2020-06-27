@@ -1,24 +1,8 @@
----
-layout: page
-title: Reproducible Research and Data Analysis
-nav_order: 7
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](f5dde413-4c45-488f-8bc2-c2a57a02a812.png)
 
-# What is it?
+# Reproducible Research and Data Analysis
+
+## What is it?
 
 Reproducibility means that research data and code are made available so
 that others are able to reach the same results as are claimed in
@@ -334,7 +318,3 @@ reproducibility and replicability.
 
   - Karl Broman (n.y.). Data Organization. Choose good names for things.
     [kbroman.org](http://kbroman.org/dataorg/pages/names.html)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

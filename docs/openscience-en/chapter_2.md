@@ -1,21 +1,3 @@
----
-layout: page
-title: roduction
-nav_order: 2
----
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
 ![](0ca2415e-d4af-4b8f-8b9b-cfad05b2abd5.png)
 
 # Purpose of the book
@@ -203,7 +185,3 @@ We have tried to acknowledge all of our sources. If for some reason we
 have forgotten to provide you with proper credits it has not been done
 with malicious intent. Feel free to contact us at
 <elearning@fosteropenscience.eu> for any corrections.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
