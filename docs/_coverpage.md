@@ -7,4 +7,4 @@
 - Brought to you by the FOSTER organisation
 - Open Access &ndash; Creative Commons Attribution 1.0
 
-[Read](#publication-brief-intro)
+[Read publication](#publication-brief-intro)
