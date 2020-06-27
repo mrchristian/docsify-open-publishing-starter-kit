@@ -1,9 +1,3 @@
-toc: {
-scope: '.markdown-section',
-headings: 'h1, h2, h3, h4, h5, h6',
-title: 'Chapter Contents',
-},
-
 ![](83db2204-7fbd-4954-bbf7-95dbd6ff4efa.png)
 
 # The Open Science Training Handbook
