@@ -11,3 +11,5 @@
 
 - **Project Documentation**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+
+v6.27-15:41CEST  
