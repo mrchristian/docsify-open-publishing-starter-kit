@@ -1,6 +1,6 @@
-- [Publication Home](/)
+- [Publication home](/)
 
--  **Table of Contents**
+-  **Table of contents**
 
 - [The Open Science Training Handbook](openscience-en/chapter_1.md)
 - [Purpose of the book](openscience-en/chapter_2.md)
@@ -11,7 +11,7 @@
 - [Reproducible Research and Data Analysis](openscience-en/chapter_7.md)
 - [Open Access to Published Research Results](openscience-en/chapter_8.md)
 
-- **Project Documentation**
+- **About the publication**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
 
 v6.27-16:22CEST  
