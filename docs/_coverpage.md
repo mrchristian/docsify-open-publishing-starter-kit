@@ -9,4 +9,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Read](#docsify)
+[Read](#publication-brief-intro)
