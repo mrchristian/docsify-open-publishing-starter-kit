@@ -1,12 +1,10 @@
-![cover](openscience-en/cover.png)
+![cover](openscience-en/cover.png ':size=30%')
 
 # The Open Science Training Handbook  
 
 > Multiligual introduction to Open Science.
 
 - Brought to you by the FOSTER organisation
-- Open Access
-- Creative Commons Attribution 1.0
+- Open Access &ndash; Creative Commons Attribution 1.0
 
-[Multi-format](#multi-format)
 [Read](#publication-brief-intro)
