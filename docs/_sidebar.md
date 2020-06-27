@@ -15,14 +15,14 @@
   - [Topic 1 as MD](openscience/document-1.md)
   - [Topic 2](openscience/index.html)
   - Open Science EN R MD
-    - [The Open Science Training Handbook](openscience-en/chapter_1.md)
-    - [Chapter 2](openscience-en/chapter_2.md)
-    - [Chapter 2](openscience-en/chapter_3.md)
-    - [Chapter 2](openscience-en/chapter_4.md)
-    - [Chapter 2](openscience-en/chapter_5.md)
-    - [Chapter 2](openscience-en/chapter_6.md)
-    - [Chapter 2](openscience-en/chapter_7.md)
-    - [Chapter 2](openscience-en/chapter_8.md)
+  - [The Open Science Training Handbook](openscience-en/chapter_1.md)
+  - [Chapter 2](openscience-en/chapter_2.md)
+  - [Chapter 2](openscience-en/chapter_3.md)
+  - [Chapter 2](openscience-en/chapter_4.md)
+  - [Chapter 2](openscience-en/chapter_5.md)
+  - [Chapter 2](openscience-en/chapter_6.md)
+  - [Chapter 2](openscience-en/chapter_7.md)
+  - [Chapter 2](openscience-en/chapter_8.md)
 
 
 - **Project Documentation**
