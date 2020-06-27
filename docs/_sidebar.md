@@ -17,7 +17,7 @@
   - [Imprint](openscience-en/about.md)
   - [About](openscience-en/about.md)
 
-v6.27-16:55CEST
+v6.27-1710CEST
 
 ISBN:  
 DOI:
