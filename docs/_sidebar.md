@@ -2,7 +2,7 @@
 
 -  **Navigation**
 
-- [Full Table of Contents](openscience-en/toc.md)
+- [Full Table of Contents](#publication-brief-intro)
 
 - [The Open Science Training Handbook](openscience-en/chapter_1.md)
 - [Purpose of the book](openscience-en/chapter_2.md)
