@@ -1,6 +1,8 @@
-- [Publication home](/)
+- [Cover](/)
 
--  **Table of contents**
+-  **Navigation**
+
+- [Full Table of Contents](openscience-en/toc.md)
 
 - [The Open Science Training Handbook](openscience-en/chapter_1.md)
 - [Purpose of the book](openscience-en/chapter_2.md)
@@ -12,6 +14,11 @@
 - [Open Access to Published Research Results](openscience-en/chapter_8.md)
 
 - **About the publication**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+  - [Imprint](openscience-en/about.md)
+  - [About](openscience-en/about.md)
 
-v6.27-16:30CEST  
+v6.27-16:55CEST
+
+ISBN:  
+DOI:
+Cite as:  
