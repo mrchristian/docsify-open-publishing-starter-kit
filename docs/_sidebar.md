@@ -1,4 +1,4 @@
--   - [Publication Home](/)
+- [Publication Home](/)
 
 -  **Table of Contents**
 
