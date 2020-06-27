@@ -1,20 +1,3 @@
----
-layout: page
-title: dme
-nav_order: 1
----
-
-<details markdown="block">
-  <summary>
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
-  </summary>
-
-1. TOC
-{:toc}
- </details>
-
-   <p></p>
-
 
 ![](83db2204-7fbd-4954-bbf7-95dbd6ff4efa.png)
 
@@ -134,9 +117,3 @@ malicious intent. Feel free to contact us at
 
 This project has received funding from the European Union’s Horizon 2020
 research and innovation programme under grant agreement No. 741839.
-
-
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
