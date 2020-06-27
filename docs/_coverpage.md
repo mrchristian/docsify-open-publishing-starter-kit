@@ -1,4 +1,4 @@
-![cover](openscience-en/cover.png ':size=30%')
+![cover](openscience-en/cover.png ':size=50%')
 
 # The Open Science Training Handbook  
 
