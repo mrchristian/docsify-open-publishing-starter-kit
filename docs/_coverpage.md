@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![cover](openscience-en/cover.png)
 
-# The Open Science Training Handbook <small>3.5</small>
+# The Open Science Training Handbook  
 
-> A magical documentation site generator.
+> Multiligual introduction to Open Science.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- Brought to you by the FOSTER organisation
+- Open Access
+- Creative Commons Attribution 1.0
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[Multi-format](#multi-format)
 [Read](#publication-brief-intro)
