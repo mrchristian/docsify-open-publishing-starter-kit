@@ -1,20 +1,5 @@
-- Basics
-  - [Overview](basics/overview.md)
-    - [Sub Topic](basics/requirements/sub-topic.md)
-  - [Installation](basics/installation.md)
-- Intermediate
-  - [Topic 1](intermediate/topics-1.md)
-  - [Topic 2](intermediate/topics-2.md)
-  - [Topic 3](intermediate/topics-3.md)
-  - [Topic 4](intermediate/topics-4.md)
-- Advanced
-  - [Topic 1](advanced/adv-topic-1.md)
-  - [Topic 2](advanced/adv-topic-2.md)
-- Open Science HTML testing
-  - [Topic 1 HTML](openscience/document-1.html)
-  - [Topic 1 as MD](openscience/document-1.md)
-  - [Topic 2](openscience/index.html)
-  - Open Science EN R MD
+-  **Table of Contents**
+
   - [The Open Science Training Handbook](openscience-en/chapter_1.md)
   - [Purpose of the book](openscience-en/chapter_2.md)
   - [Open Science Basics](openscience-en/chapter_3.md)
@@ -23,7 +8,6 @@
   - [Open Research Software and Open Source](openscience-en/chapter_6.md)
   - [Reproducible Research and Data Analysis](openscience-en/chapter_7.md)
   - [Open Access to Published Research Results](openscience-en/chapter_8.md)
-
 
 - **Project Documentation**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
