@@ -14,4 +14,4 @@
 - **About the publication**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
 
-v6.27-16:22CEST  
+v6.27-16:30CEST  
