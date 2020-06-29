@@ -15,7 +15,7 @@
   - [About](openscience-en/chapter_1?id=the-open-science-training-handbook)
   - [Imprint](openscience-en/chapter_1?id=copyright-statement)
 
-v6.29-18:00CEST
-
 ISBN 978-0-00-000000-0  
 [DOI 10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
+Version v6.29-18:00CEST #5a7b428
+CC0
