@@ -17,20 +17,17 @@ section.content > aside.nav > .page_toc {
   font-size: 14px;
 }
 section.content > aside.nav > .page_toc ul a:hover span {
-  color: var(--text-color-tertiary, #EE868F) !important;
-  color: #EE868F !important;
+  color: var(--text-color-tertiary, #ED7C00F) !important;
+  color: #ED7C00 !important;
 }
 .nav .page_toc ul a:hover span {
-  color: #EE868F !important;
+  color: #ED7C00 !important;
 }
 aside.nav > .page_toc .active {
   border-left: 5px solid #0B87DA;
   color: inherit !important;
   padding-left: 10px;
   font-weight: bold;
-}
-aside.nav > .page_toc ul a:hover.active span {
-  color: grey !important;
 }
 aside.nav > .page_toc li strong {
   font-weight: normal;
@@ -43,7 +40,7 @@ aside.nav > .page_toc .active strong {
 
 /* top right menu*/
 nav.app-nav li a:active, nav.app-nav li a:hover {
-    color: #EE868F !important;
+    color: #ED7C00 !important;
     -webkit-transition:none !important;
     -moz-transition:none !important;
     -o-transition:none !important;
