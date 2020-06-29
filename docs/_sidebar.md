@@ -18,7 +18,7 @@
   - [Imprint](openscience-en/about.md)
   - [About](openscience-en/about.md)
 
-v6.29-1255CEST
+v6.29-1350CEST
 
 ISBN: 978-000-000-000  
 DOI: [10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
