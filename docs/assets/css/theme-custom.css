@@ -1,6 +1,7 @@
 :root {
     --base-font-size                                  : 16px;
-    --link-color                                      : #ED7C00;
+    --link-color                                      : #0B87DA;
+    --link-color--hover                               : #ED7C00;
     --sidebar-name-color                              : #0A75BD;
     --sidebar-nav-link-color--active                  : #4D4D4D;
     --sidebar-nav-link-font-weight--active            : bold;
