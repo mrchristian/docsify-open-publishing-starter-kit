@@ -67,7 +67,7 @@ constraints with sensitive data or proprietary data.
 
 ### Knowledge & Skills
 
-#### **FAIR principles**
+#### FAIR principles
 
 In 2014, a core set of principles were drafted in order to optimize the
 reusability of research data, named the [FAIR Data
@@ -110,7 +110,7 @@ citation). Those qualities can be achieved by different standards.
 
 ![](aae2bfa0-3eee-47db-87e2-366fa48e93cb.png)
 
-##### **Data publishing**
+##### Data publishing
 
 Most researchers are more or less familiar with Open Access publishing
 of research articles and books (see chapter 5). More recently, and for
@@ -214,7 +214,7 @@ al., 2009](https://doi.org/10.3233/ISU-2009-0595)) and should be:
 
 ![](d7fb9fbc-5882-4ea3-8f19-feabbe374223.png)
 
-##### **Data citation**
+##### Data citation
 
 Data citation services help research communities discover, identify, and
 cite research data (and often other research objects) with confidence.
@@ -239,7 +239,7 @@ use when referring to a given dataset.
 
 ![](13ef0ff8-44c6-48dc-b70d-d470dac3a90b.png)
 
-##### **Data packaging**
+##### Data packaging
 
 Data packages are containers for describing and sharing accompanying
 data files, and typically comprise a metadata file describing the
@@ -264,7 +264,7 @@ Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
 
 ![](93f2263c-08cc-4ca7-b34b-b629ca50400c.png)
 
-##### **Sharing sensitive and proprietary data**
+##### Sharing sensitive and proprietary data
 
 With appropriate data management planning much sensitive and proprietary
 data can be shared, reused, and FAIR. The metadata can almost always be
@@ -287,7 +287,7 @@ will harmonize personal data legislation in Europe (May 2018), and
 provides an updated overview on [EU diversity on data
 protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).
 
-###### **Data brokers**
+###### Data brokers
 
 Data brokers are knowledgeable, independent parties who act as data
 stewards for sensitive data. Researchers can transfer their sensitive
