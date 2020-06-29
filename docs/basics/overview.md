@@ -1,5 +1,3 @@
-# Publication brief intro
-
 # Table of contents
 
 1.  [Readme](openscience-en/chapter_1.md)

@@ -1,6 +1,6 @@
 - **Navigation**
 
-- [Full Table of Contents](#publication-brief-intro)
+- [Table of contents](#table-of-contents)
   - [The Open Science Training Handbook](openscience-en/chapter_1.md)
   - [Purpose of the book](openscience-en/chapter_2.md)
   - [Open Science Basics](openscience-en/chapter_3.md)
@@ -12,10 +12,10 @@
 
 - **About the publication**
 
-  - [Imprint](openscience-en/about.md)
-  - [About](openscience-en/about.md)
+  - [About](openscience-en/chapter_1?id=the-open-science-training-handbook)
+  - [Imprint](openscience-en/chapter_1?id=copyright-statement)
 
 v6.29-16:15CEST
 
 ISBN 978-0-00-000000-0  
-DOI [10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
+[DOI 10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
