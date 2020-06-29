@@ -2,9 +2,9 @@
 
 # The Open Science Training Handbook  
 
-> Multiligual introduction to Open Science.
+> A multiligual introduction to Open Science.
 
-- Brought to you by the FOSTER organisation
-- Open Access &ndash; Creative Commons Attribution 1.0
+- Open Access &ndash; Creative Commons Public Domain Dedication (CC0 1.0 Universal)
+- DOI: 10.5281/zenodo.2587951
 
-[Read publication](#publication-brief-intro)
+[Read publication](#table-of-contents)
