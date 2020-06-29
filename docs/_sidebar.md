@@ -1,6 +1,6 @@
 - [Cover](/)
 
--  **Navigation**
+- **Navigation**
 
 - [Full Table of Contents](#publication-brief-intro)
 
@@ -14,10 +14,11 @@
 - [Open Access to Published Research Results](openscience-en/chapter_8.md)
 
 - **About the publication**
+
   - [Imprint](openscience-en/about.md)
   - [About](openscience-en/about.md)
 
-v6.27-1733CEST
+v6.29-1255CEST
 
 ISBN: 978-000-000-000  
-DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2587951.svg)](https://doi.org/10.5281/zenodo.2587951)
+DOI: [10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
