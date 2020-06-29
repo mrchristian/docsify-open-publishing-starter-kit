@@ -1,6 +1,6 @@
 - **Navigation**
 
-- [Table of contents](#table-of-contents)
+- [Table of contents](/#table-of-contents)
   - [The Open Science Training Handbook](openscience-en/chapter_1.md)
   - [Purpose of the book](openscience-en/chapter_2.md)
   - [Open Science Basics](openscience-en/chapter_3.md)
