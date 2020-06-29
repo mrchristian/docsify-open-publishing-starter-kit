@@ -7,4 +7,4 @@
 - Open Access &ndash; Creative Commons Public Domain Dedication
 - DOI: 10.5281/zenodo.2587951
 
-[Read publication](#table-of-contents)
+[Read publication](openscience-en/toc.md) [About](#about-the-publication)
