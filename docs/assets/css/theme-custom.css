@@ -45,23 +45,23 @@ ol li { list-style-type:none;
   /*word-spacing: 0px;*/
   font-size: 9pt;
 }
-ol li ul { counter-reset:subsection; }
+ol li ol { counter-reset:subsection; }
 ol li:before{
     counter-increment:section;
     content:counter(section) ". ";/*content:"Section " counter(section) ". ";*/
 }
-ol li ul li:before {
+ol li ol li:before {
     counter-increment:subsection;
     content:counter(section) "." counter(subsection) " ";
 }
 
 /*3 level*/
-ol li ul li ul { counter-reset:subsubsection; }
-ol li ul li:before{
+ol li ol li ol { counter-reset:subsubsection; }
+ol li ol li:before{
     counter-increment:subsection;
     content:counter(section) "." counter(subsection) " ";
 }
-ol li ul li ul li:before {
+ol li ol li ol li:before {
     counter-increment:subsubsection;
     content:counter(section) "." counter(subsection) "." counter(subsubsection) " ";
 }
@@ -70,7 +70,6 @@ ol li ul li ul li:before {
 ol li.none:before {
     content: " ";
 }
-
 /*#table-of-contents ol {
  list-style: none;
  counter-reset: section;
