@@ -10,11 +10,8 @@
   - [Reproducible Research and Data Analysis](openscience-en/chapter_7.md)
   - [Open Access to Published Research Results](openscience-en/chapter_8.md)
 
-- **About the publication**
-
-  - [About](openscience-en/imprint.md)
-  - [Imprint](openscience-en/imprint.md)
+- **About**(openscience-en/imprint.md)
 
 ISBN 978-0-00-000000-0  
 [DOI 10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
-Version v6.30-11:30CEST #5a7b428
+Version v6.30-12:00CEST #5a7b428
