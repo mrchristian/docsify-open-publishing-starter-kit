@@ -7,7 +7,7 @@
     --sidebar-nav-link-font-weight--active            : bold;
     --sidebar-width                                   : 22rem;
     --sidebar-nav-pagelink-background-position: 3px 14px;
-    --navbar-menu-padding: 0.5em 0.5em 0.2em 0.5em;
+    /*--navbar-menu-padding: 0.5em 0.5em 0.2em 0.5em;*/
     --sidebar-nav-pagelink-background-image           : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='black' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
     --sidebar-nav-pagelink-background-image--active   : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='black' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
     --sidebar-nav-pagelink-background-image--collapse : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='black' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
@@ -33,7 +33,6 @@ color: var(--base-color);
 }
 .sidebar-nav > p {
   font-size: 12px;
-background-color: yellow;
 }
 /* Table of Contents */
 section.content > aside.nav > .page_toc {
