@@ -34,7 +34,7 @@ color: var(--base-color);
 .sidebar-nav > p {
   font-size: 12px;
 }
-ol { counter-reset:section -3; list-style-type:none; list-style-position: outside; padding-left: 0;}
+ol { counter-reset:section; list-style-type:none; list-style-position: outside; padding-left: 0;}
 ol li { list-style-type:none;
   margin-top: 0.3em;
   color: black;
