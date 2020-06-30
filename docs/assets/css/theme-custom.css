@@ -34,8 +34,8 @@ color: var(--base-color);
 .sidebar-nav > p {
   font-size: 12px;
 }
-ol { counter-reset:section -3; list-style-type:none; list-style-position: outside; padding-left: 0;}
-ol li { list-style-type:none;
+#table-of-contents ol { counter-reset:section -3; list-style-type:none; list-style-position: outside; padding-left: 0;}
+#table-of-contents ol li { list-style-type:none;
   margin-top: 0.3em;
   color: black;
   margin-left: 0;
@@ -45,29 +45,29 @@ ol li { list-style-type:none;
   /*word-spacing: 0px;*/
   font-size: 9pt;
 }
-ol li ol { counter-reset:subsection; }
-ol li:before{
+#table-of-contents ol li ol { counter-reset:subsection; }
+#table-of-contents ol li:before{
     counter-increment:section;
     content:counter(section) ". ";/*content:"Section " counter(section) ". ";*/
 }
-ol li ol li:before {
+#table-of-contents ol li ol li:before {
     counter-increment:subsection;
     content:counter(section) "." counter(subsection) " ";
 }
 
 /*3 level*/
-ol li ol li ol { counter-reset:subsubsection; }
-ol li ol li:before{
+#table-of-contents ol li ol li ol { counter-reset:subsubsection; }
+#table-of-contents ol li ol li:before{
     counter-increment:subsection;
     content:counter(section) "." counter(subsection) " ";
 }
-ol li ol li ol li:before {
+#table-of-contents ol li ol li ol li:before {
     counter-increment:subsubsection;
     content:counter(section) "." counter(subsection) "." counter(subsubsection) " ";
 }
 
 /*None level*/
-ol li.none:before {
+#table-of-contents ol li.none:before {
     content: " ";
 }
 /*#table-of-contents ol {
