@@ -42,8 +42,8 @@ color: var(--base-color);
   margin-left: 0;
   text-indent: 0;
   letter-spacing: 0.2pt;
-  /*word-spacing: 0px;*/
-  font-size: 9pt;
+  /*word-spacing: 0px;
+  font-size: 9pt;*/
 }
 #table-of-contents ol li ol { counter-reset:subsection; }
 #table-of-contents ol li:before{
