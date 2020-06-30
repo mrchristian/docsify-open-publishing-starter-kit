@@ -35,7 +35,7 @@ color: var(--base-color);
   font-size: 12px;
 }
 
-#table-of-contents ol {
+/*#table-of-contents ol {
  list-style: none;
  counter-reset: section;
 }
@@ -44,7 +44,7 @@ color: var(--base-color);
 }
 #table-of-contents li::before {
  content: counter(section, ".");
-}
+}*/
 /* Table of Contents */
 section.content > aside.nav > .page_toc {
   top: 80px !important;
