@@ -34,6 +34,17 @@ color: var(--base-color);
 .sidebar-nav > p {
   font-size: 12px;
 }
+
+#table-of-contents ol {
+ list-style: none;
+ counter-reset: section;
+}
+#table-of-contents ol li {
+ counter-increment: section;
+}
+#table-of-contents li::before {
+ content: counter(section, ".");
+}
 /* Table of Contents */
 section.content > aside.nav > .page_toc {
   top: 80px !important;
