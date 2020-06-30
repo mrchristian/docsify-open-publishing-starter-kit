@@ -12,9 +12,9 @@
 
 - **About the publication**
 
-  - [About](/)
-  - [Imprint](/)
+  - [About](openscience-en/imprint.md)
+  - [Imprint](openscience-en/imprint.md)
 
 ISBN 978-0-00-000000-0  
 [DOI 10.5281/zenodo.2587951](https://doi.org/10.5281/zenodo.2587951)
-Version v6.29-19:15CEST #5a7b428
+Version v6.30-11:30CEST #5a7b428
