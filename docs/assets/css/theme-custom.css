@@ -31,6 +31,9 @@ color: var(--base-color);
   display:block;
   overflow: visible;
 }
+.sidebar-nav + p 
+  font-size: 12px;
+}
 /* Table of Contents */
 section.content > aside.nav > .page_toc {
   top: 80px !important;
