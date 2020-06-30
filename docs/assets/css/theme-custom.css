@@ -33,6 +33,7 @@ color: var(--base-color);
 }
 .sidebar-nav > p 
   font-size: 12px;
+background-color: yellow;
 }
 /* Table of Contents */
 section.content > aside.nav > .page_toc {
